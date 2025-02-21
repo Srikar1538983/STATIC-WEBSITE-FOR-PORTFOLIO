@@ -21,3 +21,15 @@
   This project is developed using VS Code, a powerful code editor that offers an excellent development environment, complete with extensions like Live Server for real-time previews, HTML CSS Support for improved code suggestions, and Prettier for code formatting. The developer can also take advantage of Path Intellisense to auto-complete file paths when linking images and CSS files.
 
   The goal of this portfolio website is to function as an online resume, allowing developers to showcase their skills and projects to potential employers.
+
+**OUTPUT**:
+
+![Image](https://github.com/user-attachments/assets/cbfcdd47-71b2-45c4-a735-d7e39be986d2)
+
+![Image](https://github.com/user-attachments/assets/35307055-34d9-4fff-9860-0c0e9f707059)
+
+![Image](https://github.com/user-attachments/assets/432d4f00-ca4b-4812-99c9-8ce3dc8ea526)
+
+![Image](https://github.com/user-attachments/assets/477a9615-6820-4b78-bc3a-b86db5d1810e)
+
+  
